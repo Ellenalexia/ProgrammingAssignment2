@@ -8,15 +8,20 @@
 ## NOTES ABOUT THIS ASSIGNMENT
 ## * Did not test that matrix is inversible, per instructions
 ##
-## * VERY USEFUL extensive comments on model code are
-##   by Community TA Vladimir Kirilenko at
+## * VERY USEFUL extensive comments on model code 
+##   credit: Community TA Vladimir Kirilenko
 ##   https://github.com/DanieleP/PA2-clarifying_instructions
 ##
 ## * Watch out for typos - dot syntax habits
 ##   from other programming languages will break things :)
 ##
-## * Sample to test work (for this July 2015 class) is at
+## * Sample to test work (for this July 2015 class) 
+##   credit: course participants Paolo Di Lorenzo & Austin J. Taylor
 ##   https://class.coursera.org/rprog-030/forum/thread?thread_id=561#comment-2518
+##
+## * Useful resource for setting up RStudio to work with Git & GitHub
+##   credit: course participant Pierre Tourigny
+##   https://class.coursera.org/rprog-030/forum/thread?thread_id=431#post-1783
 
 ## store a list of mini functions
 makeCacheMatrix <- function(x = matrix()) {
